@@ -1,4 +1,5 @@
 
+
 .btn,
 .navbar .navbar-nav > a.btn {
   border-width: 2px;
@@ -11,8 +12,7 @@
   padding: 11px 22px;
   cursor: pointer;
   background-color: rgb(21, 70, 95);
- /* color: #FFFFFF;*/
-  color: #31a949;
+  color: #FFFFFF;
 }
 
 .btn:hover, .btn:focus, .btn:active, .btn.active, .btn:active:focus, .btn:active:hover, .btn.active:focus, .btn.active:hover,
@@ -34,7 +34,7 @@
 .show >
 .navbar .navbar-nav > a.btn.dropdown-toggle:hover {
   background-color: rgb(19, 106, 150);
-  color: #31a949;
+  color: #FFFFFF;
   -webkit-box-shadow: none;
           box-shadow: none;
 }
@@ -4904,7 +4904,7 @@ img {
   -webkit-animation: none;
           animation: none;
 }
-/*
+
 /* Profile Page Social button Style */
 .button-container .btn-default {
   margin-right: 8px;
@@ -4915,7 +4915,7 @@ img {
   margin-bottom: 20px;
   font-size: 18px;
 }
-*/
+
 .progress-container .progress-bar {
   height: 5px;
   -webkit-transform: scaleX(0);
