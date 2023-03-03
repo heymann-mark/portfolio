@@ -1,5 +1,5 @@
 //import * as variable from 'variableName';
- console.log("Javascript works!");
+ console.log("Javascfript works!");
  angular.module('MyApp', [])
 
  .controller('MyCtrl', [function() {
